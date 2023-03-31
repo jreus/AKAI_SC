@@ -1,8 +1,6 @@
 /*
 MIDI Control Class for the LPD8
 
-Very simple for now & need a lot of work to take advantage of all the settings.
-Put it on program 3 and pad mode to use.
 
 USAGE:
 l = LPD8.new
